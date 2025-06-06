@@ -49,7 +49,7 @@ I love solving real-world problems and participating in coding contests on platf
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-Shivam%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shivamkr9)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
@@ -61,13 +61,13 @@ I love solving real-world problems and participating in coding contests on platf
 - 🧾 **Question Hub App** – Features advanced filtering, bookmarking, and answer tracking.
 - 💬 **Chat App** – FastAPI & React-powered real-time messaging.
 
-> 🔗 More projects on my [GitHub Profile](https://github.com/your-username)
+> 🔗 More projects on my [GitHub Profile](https://github.com/shivamkr9)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkr9&show_icons=true&theme=radical)
 
 ---
 
